@@ -1,4 +1,4 @@
-package com.minisun.javaUtils.controller;
+package com.minisun.javautils.controller;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -11,8 +11,6 @@ import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 import org.springframework.test.web.servlet.result.MockMvcResultHandlers;
 import org.springframework.test.web.servlet.result.MockMvcResultMatchers;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
-
-import static org.junit.Assert.*;
 
 
 @RunWith(SpringRunner.class)

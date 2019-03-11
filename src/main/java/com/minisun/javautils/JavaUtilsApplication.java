@@ -1,4 +1,4 @@
-package com.minisun.javaUtils;
+package com.minisun.javautils;
 
 import org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration;
 import org.springframework.boot.SpringApplication;

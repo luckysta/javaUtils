@@ -1,4 +1,4 @@
-package com.minisun.javaUtils;
+package com.minisun.javautils;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
